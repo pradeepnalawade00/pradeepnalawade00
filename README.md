@@ -79,9 +79,11 @@ I'm a **Electronics & Communication Engineering student** (B.E., AMC Engineering
 ## 💼 Experience
 
 ### 🧑‍💻 Android App Development Intern (Gen AI Domain) — *MindMatrix*
-**2026 – Present**
-- Developing Android applications integrated with **Generative AI** features for real-world use cases in an agile environment.
-- Contributing to AI-based feature development, backend logic implementation, and structured data handling pipelines.
+**Feb 2026 – May 2026**
+- Built Android applications using Kotlin and Jetpack Compose.
+- Integrated Firebase services and explored Generative AI capabilities using Google AI Studio.
+- Performed UI/UX design, testing, debugging, and feature development.
+- Received an Excellent internship performance rating.
 
 ### 📊 Power BI Analyst Intern — *Microsoft Elevate × AICTE Program*
 **Feb 2026 – Mar 2026**

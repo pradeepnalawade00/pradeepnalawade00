@@ -1,20 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:1a1a4e,100:0f2862&height=200&section=header&text=Pradeep%20Nalawade&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=VLSI%20%26%20Embedded%20Systems%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:1a1a4e,100:0f2862&height=200&section=header&text=Pradeep%20Nalawade&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Embedded%20Systems%20%7C%20IoT%20%7C%20Data%20Science%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=SystemVerilog+%7C+VHDL+%7C+RTL+Design;FPGA+Implementation+%7C+ASIC+Physical+Design;UVM+Verification+%7C+Cadence+%7C+Synopsys;Embedded+Systems+%7C+ESP32+%7C+ARM+Cortex-M;I+design+logic+that+fits+in+a+grain+of+sand.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Embedded+Systems+%7C+IoT+%7C+Data+Science;ESP32+%7C+Arduino+%7C+ARM+Cortex-M;Python+%7C+Scikit-learn+%7C+Power+BI;Android+Dev+%7C+Generative+AI;I+build+systems+that+sense%2C+think%2C+and+act.)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-portfolio--next--sable--one.vercel.app-3B82F6?style=for-the-badge)](https://portfolio-next-sable-one.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-pradeepnalawade00.github.io-3B82F6?style=for-the-badge)](https://pradeepnalawade00.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pradeep_Nalawade-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pradeep-nalawade-950244314)
+[![GitHub](https://img.shields.io/badge/GitHub-pradeepnalawade00-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pradeepnalawade00)
 [![Email](https://img.shields.io/badge/Email-pradeepnalawade000@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pradeepnalawade000@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-+91_8088968407-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918088968407)
 
 </div>
 
@@ -22,66 +24,87 @@
 
 ## 🧠 About Me
 
-I'm a **VLSI & Embedded Systems Engineer** (B.E. ECE, KLE Technological University, 2025) specializing in RTL design, FPGA implementation, and hardware-software co-design. My work spans from synthesizable SystemVerilog cores running at 120 MHz on Artix-7 FPGAs to bare-metal C firmware on ARM Cortex-M microcontrollers.
+I'm a **Electronics & Communication Engineering student** (B.E., AMC Engineering College, Bengaluru — Expected May 2026) with hands-on experience in **embedded systems, IoT, data science, and business intelligence**. My work spans from CNN-based structural crack detection on dam systems to loan prediction ML pipelines and Power BI analytics dashboards.
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│  RTL → Synthesis → P&R → STA → Silicon                     │
-│  ████████████████████████████████████████  (Full-Stack HW) │
+│  Sensor → Firmware → Cloud → Dashboard → Insight           │
+│  ████████████████████████████████████████  (Full-Stack HW+SW) │
 └─────────────────────────────────────────────────────────────┘
 ```
 
-- 🔭 **Currently:** Building a pipelined RISC-V RV32I core & automated ASIC floorplanning tools  
-- 🎯 **Goal:** VLSI/Physical Design Engineer or Embedded Systems role at a semiconductor company  
-- 📍 **Location:** Belagavi → open to Bengaluru, Hyderabad, Pune & remote  
+- 🔭 **Currently:** Android App Development Intern (Gen AI Domain) @ MindMatrix  
+- 🎯 **Goal:** Embedded Systems, Data Science, or IoT Development role  
+- 📍 **Location:** Bengaluru  
 - 💼 **Status:** 🟢 **Open to full-time roles & internships**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### ⚡ RTL / HDL & Verification
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-FF6B35?style=for-the-badge&logo=v&logoColor=white)
-![VHDL](https://img.shields.io/badge/VHDL-007396?style=for-the-badge&logo=v&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-8B0000?style=for-the-badge&logo=v&logoColor=white)
-![UVM](https://img.shields.io/badge/UVM-4B0082?style=for-the-badge&logoColor=white)
-
-### 🔧 EDA Tools
-![Cadence Virtuoso](https://img.shields.io/badge/Cadence_Virtuoso-E31837?style=for-the-badge&logoColor=white)
-![Synopsys DC](https://img.shields.io/badge/Synopsys_DC-2E86AB?style=for-the-badge&logoColor=white)
-![Xilinx Vivado](https://img.shields.io/badge/Xilinx_Vivado-FF0000?style=for-the-badge&logo=xilinx&logoColor=white)
-![Cadence Xcelium](https://img.shields.io/badge/Cadence_Xcelium-E31837?style=for-the-badge&logoColor=white)
-
-### 💻 Embedded & Firmware
-![ARM](https://img.shields.io/badge/ARM_Cortex--M-00979D?style=for-the-badge&logo=arm&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-
-### 🐍 Programming
+### 💻 Languages
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded_C-555555?style=for-the-badge&logoColor=white)
 
-### 📊 Data & ML
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+### 🤖 Machine Learning / Data Science
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### 📊 Business Intelligence
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### 🔌 Embedded & IoT
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![ESP8266](https://img.shields.io/badge/ESP8266-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+### 🔧 EDA & Tools
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Cadence](https://img.shields.io/badge/Cadence-E31837?style=for-the-badge&logoColor=white)
+![Xilinx](https://img.shields.io/badge/Xilinx_Vivado-FF0000?style=for-the-badge&logo=xilinx&logoColor=white)
+![Keil](https://img.shields.io/badge/Keil-003366?style=for-the-badge&logoColor=white)
+
+### 📱 Other
+![Android](https://img.shields.io/badge/Android_Dev-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 💼 Experience
+
+### 🧑‍💻 Android App Development Intern (Gen AI Domain) — *MindMatrix*
+**2026 – Present**
+- Developing Android applications integrated with **Generative AI** features for real-world use cases in an agile environment.
+- Contributing to AI-based feature development, backend logic implementation, and structured data handling pipelines.
+
+### 📊 Power BI Analyst Intern — *Microsoft Elevate × AICTE Program*
+**Feb 2026 – Mar 2026**
+- Built an interactive **Amazon Product Analysis dashboard** in Power BI using a 1,500+ record Kaggle dataset.
+- Designed **KPI cards and DAX measures** tracking total products, average ratings, discount percentages, and review volumes.
+- Derived insight: products with moderate discounts consistently received higher ratings, informing pricing strategy.
+
+### 🔬 Data Science Intern — *Prinston Smart Engineers, Bengaluru*
+**Mar 2025 – May 2025**
+- Engineered a **Loan Prediction System** using Logistic Regression and Decision Tree classifiers, achieving **~85% accuracy** on 1,000+ records.
+- Executed end-to-end data pipeline including cleaning, normalization, and feature engineering, improving model performance by **10–12%**.
+- Reduced false loan approval risk by ~**15%** via cross-validation and precision/recall evaluation.
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Tech | Highlight |
-|---------|------|-----------|
-| [**5-Stage RISC-V Core on FPGA**](https://github.com/pradeepnalawade00/traffic-light-fsm) | SystemVerilog, Vivado | 120 MHz · RV32I · 1800 LUTs · Artix-7 |
-| [**UVM AXI4 Verification Env**](https://github.com/pradeepnalawade00/traffic-light-fsm) | UVM, Cadence Xcelium | 97.3% functional coverage · 3 bugs caught |
-| [**ASIC Floorplanning Tool**](https://github.com/pradeepnalawade00/python-projects) | Python, LEF/DEF | 70% faster iterations · 18% wire-length ↓ |
-| [**IoT Dam Monitor**](https://github.com/pradeepnalawade00/CRACK-DETECTION-AND-WATER-LEVEL-INDICATOR-IN-DAM) | ESP32, MQTT, MATLAB | 94% accuracy · <2s alert · 72h pilot |
-| [**Robotic Arm Controller**](https://github.com/pradeepnalawade00/pick-and-place-robotic-arm) | ESP32, C++ | Servo IK · wireless BLE control |
-| [**Vehicle Indicator FSM**](https://github.com/pradeepnalawade00/indicator-control-module) | C++, Arduino | Automotive-grade FSM timing |
+| Project | Tech Stack | Highlight |
+|---------|-----------|-----------|
+| [**Crack Detection & Water Level Indicator (Dam)**](https://github.com/pradeepnalawade00/CRACK-DETECTION-AND-WATER-LEVEL-INDICATOR-IN-DAM) | ESP8266, CNN (MATLAB), Blynk, C++ | Dual-layer safety: IoT + AI crack detection |
+| [**Loan Prediction System**](https://github.com/pradeepnalawade00) | Python, Scikit-learn, Pandas, Jupyter | 85% accuracy · 15% fewer false approvals |
+| [**Vehicle Indicator Control Module**](https://github.com/pradeepnalawade00/indicator-control-module) | C++, Arduino, Wokwi, UART | Automotive ECU simulation · 300ms blink timing |
+| [**Robotic Arm for Pick & Place**](https://github.com/pradeepnalawade00/pick-and-place-robotic-arm) | Arduino, Servo Motors, Embedded C | Multi-servo IK · industrial automation |
 
 ---
 
@@ -102,18 +125,20 @@ I'm a **VLSI & Embedded Systems Engineer** (B.E. ECE, KLE Technological Universi
 
 ---
 
-## 🎓 Certifications
+## 🎓 Education
 
-| Certification | Issuer |
-|---------------|--------|
-| Digital Implementation Flow | Cadence Design Systems |
-| RTL Design & Synthesis | Synopsys |
-| Digital Circuits & Systems (Elite) | NPTEL |
-| Hardware Security (Elite + Silver) | NPTEL |
-| TensorFlow Developer Certificate | Google |
-| IoT Specialization | Coursera |
-| ML on Edge Devices | edX |
-| Embedded Systems with ARM | Udemy |
+**B.E., Electronics and Communication Engineering** — *AMC Engineering College, Bengaluru*  
+Expected: **May 2026**  
+Relevant Coursework: VLSI Design, Embedded Systems, Internet of Things (IoT), Digital Image Processing
+
+---
+
+## 🏅 Certifications & Programs
+
+| Certification | Issuer | Date |
+|---------------|--------|------|
+| Microsoft Elevate Program — Power BI & Data Analytics | Microsoft / AICTE | Feb 2026 |
+| Data Science Internship Certificate | Prinston Smart Engineers | May 2025 |
 
 ---
 
@@ -121,6 +146,6 @@ I'm a **VLSI & Embedded Systems Engineer** (B.E. ECE, KLE Technological Universi
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2862,50:1a1a4e,100:0f0c29&height=100&section=footer" width="100%"/>
 
-*"The best hardware is the hardware nobody notices — because it just works."*
+*"Build systems that sense, think, and act — then make them smaller, faster, and smarter."*
 
 </div>
